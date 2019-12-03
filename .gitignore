@@ -1,0 +1,15 @@
+cmake-build-debug/
+data/
+minisql
+test.sql
+*.o
+
+#tempfile
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system file
+.DS_Store
